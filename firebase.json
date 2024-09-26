@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/oldupai-project",
     "ignore": [
       "firebase.json",
       "**/.*",
